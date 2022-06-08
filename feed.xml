@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Title of your Feed</title>
+        <link>https://www.boccarusso.com/</link>
+        <description>Gabriele Boccarusso's official website's feed</description>
+        <lastBuildDate>Wed, May 25 2022</lastBuildDate>
+        <item>
+            <title>Introduction to the Java programming language</title>
+            <link>https://www.boccarusso.com/introduction-to-the-java-programming-language/</link>
+            <description>A powerful language for powerful applications</description>
+            <pubDate>Sun, February 20 2022</pubDate>
+        </item>
+        <item>
+            <title>The web developer dream - learn the AJAX technique</title>
+            <link>https://www.boccarusso.com/the-web-developer-dream-learn-the-ajax-technique/</link>
+            <description>You need just one technique for a dynamic website</description>
+            <pubDate>Mon, January 31 2022</pubDate>
+        </item>
+        <item>
+            <title>Creating classes in python</title>
+            <link>https://www.boccarusso.com/creating-classes-python/</link>
+            <description>The foundamentals of object-oriented design</description>
+            <pubDate>Fri, April 02 2021</pubDate>
+        </item>
+        <item>
+            <title>C++ templates</title>
+            <link>https://www.boccarusso.com/cpp-templates/</link>
+            <description>You can't make dynamic what's static, but you can make it more efficient</description>
+            <pubDate>Thu, April 29 2021</pubDate>
+        </item>
+    </channel>
+</rss>
